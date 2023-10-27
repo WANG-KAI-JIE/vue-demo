@@ -8,7 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="这是第二个版本！" />
+      <HelloWorld msg="这是第三个版本！可以自动build！" />
 
       <nav>
         <RouterLink to="/">Home/主页</RouterLink>
